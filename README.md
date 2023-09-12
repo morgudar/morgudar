@@ -1,5 +1,8 @@
 # Hallo 👋 I'm Darya 🔆
 ## Technical Writer
+### About me
+Enthusiastic and detail-oriented Technical Writer with over 5 years of experience in creating clear and concise documents. Experienced in developing user manuals, administrative guides, and other technical documentation. Looking to leverage my knowledge and experience. 
+
 
 <!--
 **morgudar/morgudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
