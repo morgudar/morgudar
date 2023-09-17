@@ -1,11 +1,19 @@
 # Hallo 👋 I'm Darya 
 ## Technical Writer
-### About me 
-Enthusiastic and detail-oriented Technical Writer with over 5 years of experience in creating clear and concise documents. Experienced in developing user manuals, administrative guides, and other technical documentation. Looking to leverage my knowledge and experience. 
+## About me 
+A passionate technical writer with a knack for translating complex concepts into clear and concise documents. Specializing in creating comprehensive technical documentation, user guides, and tutorials that empower users to make the most of their software tools. In addition to technical writing, I have experience in illustration drawing and video editing, which allows me to enhance documentation with visual elements that engage and inform users
 
-🌱 I'm currently learning Docs-as-Code approach
+## Quick facts 
+🌍 Fluent in English, German, and Russian
 
-📖 Right now I'm reading 'The product is docs' by Christopher Gales and the Splunk Documentation Team
+🌱 Currently learning Docs-as-Code approach
 
-📫 How to reach me: write me an email at [daryamorgunova96@gmail.com]
+📖 Reading 'The product is docs' by Christopher Gales and the Splunk Documentation Team
+
+👩🏻‍🏫 Curious about nocode app development
+
+
+
+### Contact details
+📫 Feel free to reach out to me via email at [daryamorgunova96@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/morgudar/]. I'm always open to new opportunities and exciting projects.
 
