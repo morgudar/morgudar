@@ -15,5 +15,5 @@ A passionate technical writer with a knack for translating complex concepts into
 
 
 ### Contact details
-📫 Feel free to reach out to me via email at [daryamorgunova96@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/morgudar/]. I'm always open to new opportunities and exciting projects.
+📫 Feel free to reach out to me via email at [morgudar@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/morgudar/]. I'm always open to new opportunities and exciting projects.
 
